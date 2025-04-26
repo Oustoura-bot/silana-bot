@@ -1,3 +1,6 @@
+https://panel.zeref.site
+3mk@host.com
+ 15981598m
 import { watchFile, unwatchFile } from 'fs'
 import fs from 'fs'
 import chalk from 'chalk'
